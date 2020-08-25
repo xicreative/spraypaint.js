@@ -9,5 +9,3 @@ build/
 test-old/
 dist/
 coverage/
-lib/
-lib-esm/
