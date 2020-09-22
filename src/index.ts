@@ -17,4 +17,5 @@ export {
   IncludeScope
 } from "./scope"
 
+export { Request } from "./request"
 export * from "./jsonapi-spec"
